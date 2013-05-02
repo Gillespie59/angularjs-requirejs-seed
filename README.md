@@ -1,5 +1,5 @@
 =======
-Angularjs + RequireJs + Express Seed 
+Angularjs + RequireJs + Kawwa Seed 
 ======================
 
 ## Directory Layout
@@ -7,8 +7,10 @@ Angularjs + RequireJs + Express Seed
     src/                --> all of the files to be used in production
       public/             --> AngularJs application
           css/              --> css files
-            bootstrap.css     --> bootstrap stylesheet
-            style.css         --> application stylesheet
+            k-structure.css --> Kawwa stylesheet
+            k-theme0.css    --> Kawwa stylesheet
+            iehacks0.css    --> Kawwa stylesheet for IE
+            style.css       --> application stylesheet
           img/              --> image files
           index.html        --> app layout file (the main html template file of the app)
           js/               --> javascript files

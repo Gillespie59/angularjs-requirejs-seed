@@ -1,18 +1,18 @@
 {
-  "name": "angularjs-requirejs-seed",
+  "name": "angularjs-requirejs-kawwa-seed",
   "version": "0.1.0",
-  "description": "Application skeleton for an angular app with express server.",
+  "description": "Application skeleton for an angular app with Kawwa stylesheets.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxdow/angularjs-requirejs-seed.git"
+    "url": "https://github.com/Gillespie59/angularjs-requirejs-seed"
   },
   "keywords": [
     "angularjs",
     "seed",
-    "express"
+    "kawwa"
   ],
-  "author": "Maxime Warnier",
-  "license": "BSD",
+  "author": "Emmanuel DEMEY",
+  "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies":{
     "express":"latest"
